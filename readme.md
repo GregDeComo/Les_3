@@ -8,3 +8,5 @@ Code A is een print statement
 code B is een print statement
 
 ook online mogelijk
+
+Maar zeker ook offline te doen
