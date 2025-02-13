@@ -10,3 +10,5 @@ code B is een print statement
 ook online mogelijk
 
 Maar zeker ook offline te doen
+
+via de gui
