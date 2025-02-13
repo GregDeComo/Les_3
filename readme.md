@@ -6,3 +6,5 @@ In deze branch wodt de doc verder uitgewerkt
 Code A is een print statement
 
 code B is een print statement
+
+ook online mogelijk
